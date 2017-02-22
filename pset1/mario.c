@@ -7,8 +7,6 @@ int main(void) {
 
   t = clock();
 
-
-  
     int number;
     
     do {
